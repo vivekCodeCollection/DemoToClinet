@@ -1,0 +1,342 @@
+2020-05-17 15:01:13 INFO  TestBase:134 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 15:01:43 INFO  TestBase:285 - browser closed
+2020-05-17 15:04:55 INFO  TestBase:135 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 15:05:24 INFO  TestBase:286 - browser closed
+2020-05-17 15:07:23 INFO  TestBase:135 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 15:07:46 INFO  TestBase:287 - browser closed
+2020-05-17 15:13:40 INFO  TestBase:135 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 15:14:53 INFO  TC002_VerifyRegistration:35 - =======started verifyRegistration Test===========
+2020-05-17 15:14:53 INFO  TC002_VerifyRegistration:47 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"PreviewFrame"}
+  (Session info: chrome=81.0.4044.138)
+  (Driver info: chromedriver=81.0.4044.69 (6813546031a4bc83f717a2ef7cd4ac6ec1199132-refs/branch-heads/4044@{#776}),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 29 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'VAIO', ip: '192.168.29.154', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:55234}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=81.0.4044.69 (6813546031a4bc83f717a2ef7cd4ac6ec1199132-refs/branch-heads/4044@{#776}), userDataDir=C:\Users\Sony\AppData\Local\Temp\scoped_dir3892_959884797}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=81.0.4044.138, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: d30be91f3e572df3a43a7b073f76e261
+*** Element info: {Using=id, value=PreviewFrame}
+2020-05-17 15:14:53 INFO  HomePage:185 - switched to the default Content
+2020-05-17 15:14:54 INFO  TestBase:287 - browser closed
+2020-05-17 15:18:59 INFO  TestBase:135 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 15:19:24 INFO  TC002_VerifyRegistration:35 - =======started verifyRegistration Test===========
+2020-05-17 15:19:24 INFO  TC002_VerifyRegistration:47 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"customer_register_link"}
+  (Session info: chrome=81.0.4044.138)
+  (Driver info: chromedriver=81.0.4044.69 (6813546031a4bc83f717a2ef7cd4ac6ec1199132-refs/branch-heads/4044@{#776}),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 36 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'VAIO', ip: '192.168.29.154', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:55650}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=81.0.4044.69 (6813546031a4bc83f717a2ef7cd4ac6ec1199132-refs/branch-heads/4044@{#776}), userDataDir=C:\Users\Sony\AppData\Local\Temp\scoped_dir7320_1417823172}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=81.0.4044.138, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 7022aaa5082de858957bc07b04495a51
+*** Element info: {Using=id, value=customer_register_link}
+2020-05-17 15:19:24 INFO  HomePage:185 - switched to the default Content
+2020-05-17 15:19:26 INFO  TestBase:288 - browser closed
+2020-05-17 17:41:17 INFO  TestBase:135 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 17:41:33 INFO  TestBase:288 - browser closed
+2020-05-17 17:46:06 INFO  TestBase:135 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 17:46:18 INFO  TestBase:288 - browser closed
+2020-05-17 17:50:46 INFO  TestBase:135 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 17:52:22 INFO  TestBase:135 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 17:52:39 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 17:52:43 INFO  TestBase:288 - browser closed
+2020-05-17 17:56:59 INFO  TestBase:135 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 17:57:13 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 17:57:19 INFO  TestBase:288 - browser closed
+2020-05-17 17:58:55 INFO  TestBase:135 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 17:59:41 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 18:00:03 INFO  TestBase:288 - browser closed
+2020-05-17 18:26:27 INFO  TestBase:135 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 18:26:48 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 18:26:52 INFO  TestBase:288 - browser closed
+2020-05-17 18:29:38 INFO  TestBase:135 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 18:29:52 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 18:29:56 INFO  TestBase:288 - browser closed
+2020-05-17 18:31:26 INFO  TestBase:135 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 18:31:38 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 18:31:47 INFO  TestBase:288 - browser closed
+2020-05-17 18:34:24 INFO  TestBase:135 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 18:35:02 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 18:35:29 INFO  TestBase:288 - browser closed
+2020-05-17 18:36:37 INFO  TestBase:135 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 18:36:51 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 18:36:54 INFO  TestBase:288 - browser closed
+2020-05-17 18:42:01 INFO  TestBase:135 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 18:42:22 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 18:47:58 INFO  TestBase:136 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 18:48:14 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 18:49:22 INFO  TestBase:289 - browser closed
+2020-05-17 18:52:28 INFO  TestBase:136 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 18:52:41 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 19:01:45 INFO  TestBase:136 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 19:02:10 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 19:02:32 INFO  TestBase:289 - browser closed
+2020-05-17 19:04:28 INFO  TestBase:136 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 19:04:58 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 19:10:23 INFO  TestBase:136 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 19:10:39 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 19:10:52 INFO  TestBase:289 - browser closed
+2020-05-17 19:13:02 INFO  TestBase:136 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 19:13:13 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 19:13:22 INFO  TestBase:289 - browser closed
+2020-05-17 19:16:02 INFO  TestBase:136 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 19:16:14 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 19:16:29 INFO  TestBase:289 - browser closed
+2020-05-17 19:53:23 INFO  TestBase:136 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 19:53:35 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 19:53:38 INFO  TC002_VerifyRegistration:77 - ============= Started SignUp ===========
+2020-05-17 19:53:38 INFO  TC002_VerifyRegistration:81 - ============= Started filling Su=ignup personal and Address Details ===========
+2020-05-17 19:53:52 INFO  TestBase:289 - browser closed
+2020-05-17 20:29:41 INFO  TestBase:138 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 20:30:14 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 20:30:31 INFO  TestBase:291 - browser closed
+2020-05-17 20:31:29 INFO  TestBase:138 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 20:31:55 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 20:32:07 INFO  TestBase:291 - browser closed
+2020-05-17 20:34:30 INFO  TestBase:138 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 20:34:47 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 20:34:53 INFO  TC002_VerifyRegistration:77 - ============= Started SignUp ===========
+2020-05-17 20:34:53 INFO  TC002_VerifyRegistration:81 - ============= Started filling Su=ignup personal and Address Details ===========
+2020-05-17 20:35:09 INFO  TestBase:138 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 20:35:35 INFO  TC002_VerifyRegistration:92 - =======started verifyRegistration Test===========
+2020-05-17 20:35:39 INFO  TC002_VerifyRegistration:99 - ============= Started SignUp ===========
+2020-05-17 20:35:52 INFO  TestBase:291 - browser closed
+2020-05-17 20:41:01 INFO  TestBase:138 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 20:41:16 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 20:41:20 INFO  TC002_VerifyRegistration:77 - ============= Started SignUp ===========
+2020-05-17 20:41:30 INFO  TC002_VerifyRegistration:81 - ============= Started filling Su=ignup personal and Address Details ===========
+2020-05-17 20:42:15 INFO  TestBase:138 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 20:42:28 INFO  TC002_VerifyRegistration:92 - =======started verifyRegistration Test===========
+2020-05-17 20:42:32 INFO  TC002_VerifyRegistration:99 - ============= Started SignUp ===========
+2020-05-17 20:59:50 INFO  TestBase:138 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 20:59:51 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 20:59:51 INFO  TestBase:291 - browser closed
+2020-05-17 21:00:31 INFO  TestBase:138 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 21:00:32 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 21:00:32 INFO  TestBase:291 - browser closed
+2020-05-17 21:02:53 INFO  TestBase:138 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 21:03:17 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 21:03:22 INFO  TC002_VerifyRegistration:77 - ============= Started SignUp ===========
+2020-05-17 21:03:22 INFO  TC002_VerifyRegistration:81 - ============= Started filling Su=ignup personal and Address Details ===========
+2020-05-17 21:03:38 INFO  TestBase:138 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 21:04:09 INFO  TC002_VerifyRegistration:92 - =======started verifyRegistration Test===========
+2020-05-17 21:04:17 INFO  TC002_VerifyRegistration:99 - ============= Started SignUp ===========
+2020-05-17 21:04:25 INFO  TestBase:291 - browser closed
+2020-05-17 21:20:22 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 21:20:53 INFO  TestBase:293 - browser closed
+2020-05-17 21:23:32 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 21:24:05 INFO  TC002_VerifyRegistration:73 - =======started verifyRegistration Test===========
+2020-05-17 21:24:09 INFO  TC002_VerifyRegistration:77 - ============= Started SignUp ===========
+2020-05-17 21:24:09 INFO  TC002_VerifyRegistration:81 - ============= Started filling Su=ignup personal and Address Details ===========
+2020-05-17 21:24:22 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-17 21:24:43 INFO  TC002_VerifyRegistration:92 - =======started verifyRegistration Test===========
+2020-05-17 21:24:47 INFO  TC002_VerifyRegistration:99 - ============= Started SignUp ===========
+2020-05-17 21:25:01 INFO  TestBase:293 - browser closed
+2020-05-18 00:08:48 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 00:09:02 INFO  TC001_Task:50 - =======started verifyRegistration Test===========
+2020-05-18 00:09:05 INFO  TC001_Task:54 - ============= Started SignUp ===========
+2020-05-18 00:09:07 INFO  TC001_Task:59 - ============= Started filling Su=ignup personal and Address Details ===========
+2020-05-18 00:09:14 INFO  TC001_Task:65 - ============= My Account Home Page ===========
+2020-05-18 00:09:54 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 00:10:03 INFO  TC001_Task:79 - =======started verifyRegistration Test===========
+2020-05-18 00:10:06 INFO  TC001_Task:87 - ============= Started SignUp/Login ===========
+2020-05-18 00:10:18 INFO  TestBase:293 - browser closed
+2020-05-18 00:12:26 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 00:12:38 INFO  TC001_Task:50 - =======started verifyRegistration Test===========
+2020-05-18 00:12:41 INFO  TC001_Task:54 - ============= Started SignUp ===========
+2020-05-18 00:12:43 INFO  TC001_Task:59 - ============= Started filling Su=ignup personal and Address Details ===========
+2020-05-18 00:12:50 INFO  TC001_Task:65 - ============= My Account Home Page ===========
+2020-05-18 00:13:05 INFO  TestBase:293 - browser closed
+2020-05-18 00:14:14 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 00:14:28 INFO  TC001_Task:50 - =======started verifyRegistration Test===========
+2020-05-18 00:14:48 INFO  TestBase:293 - browser closed
+2020-05-18 00:15:12 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 00:15:24 INFO  TC001_Task:50 - =======started verifyRegistration Test===========
+2020-05-18 00:15:33 INFO  TC001_Task:54 - ============= Started SignUp ===========
+2020-05-18 00:15:34 INFO  TC001_Task:59 - ============= Started filling Su=ignup personal and Address Details ===========
+2020-05-18 00:15:42 INFO  TC001_Task:65 - ============= My Account Home Page ===========
+2020-05-18 00:15:44 INFO  TestBase:293 - browser closed
+2020-05-18 00:19:43 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 00:20:01 INFO  TC001_Task:50 - =======started verifyRegistration Test===========
+2020-05-18 00:20:03 INFO  TC001_Task:54 - ============= Started SignUp ===========
+2020-05-18 00:20:04 INFO  TC001_Task:59 - ============= Started filling Su=ignup personal and Address Details ===========
+2020-05-18 00:20:13 INFO  TC001_Task:65 - ============= My Account Home Page ===========
+2020-05-18 00:22:52 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 00:23:07 INFO  TC001_Task:50 - =======started verifyRegistration Test===========
+2020-05-18 00:23:10 INFO  TC001_Task:54 - ============= Started SignUp ===========
+2020-05-18 00:23:11 INFO  TC001_Task:59 - ============= Started filling Su=ignup personal and Address Details ===========
+2020-05-18 00:23:20 INFO  TC001_Task:65 - ============= My Account Home Page ===========
+2020-05-18 00:23:27 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 00:23:40 INFO  TC001_Task:81 - =======started verifyRegistration Test===========
+2020-05-18 00:23:44 INFO  TC001_Task:89 - ============= Started SignUp/Login ===========
+2020-05-18 00:23:48 INFO  TC001_Task:93 - ============= My Account Home Page ===========
+2020-05-18 00:23:53 INFO  TC001_Task:97 - ============= Womens Section ===========
+2020-05-18 00:23:53 INFO  TC001_Task:101 - ============= Womens Section Product Detail===========
+2020-05-18 00:23:55 INFO  TestBase:293 - browser closed
+2020-05-18 00:26:30 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 00:26:42 INFO  TC001_Task:50 - =======started verifyRegistration Test===========
+2020-05-18 00:26:44 INFO  TC001_Task:54 - ============= Started SignUp ===========
+2020-05-18 00:26:45 INFO  TC001_Task:59 - ============= Started filling Su=ignup personal and Address Details ===========
+2020-05-18 00:26:53 INFO  TC001_Task:65 - ============= My Account Home Page ===========
+2020-05-18 00:27:06 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 00:27:17 INFO  TC001_Task:81 - =======started verifyRegistration Test===========
+2020-05-18 00:27:20 INFO  TC001_Task:89 - ============= Started SignUp/Login ===========
+2020-05-18 00:27:23 INFO  TC001_Task:93 - ============= My Account Home Page ===========
+2020-05-18 00:27:29 INFO  TC001_Task:97 - ============= Womens Section ===========
+2020-05-18 00:27:30 INFO  TC001_Task:101 - ============= Womens Section Product Detail===========
+2020-05-18 00:28:02 INFO  TestBase:293 - browser closed
+2020-05-18 00:31:43 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 00:31:58 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 00:32:19 INFO  TC001_Task:82 - =======started verifyRegistration Test===========
+2020-05-18 00:32:25 INFO  TC001_Task:90 - ============= Started SignUp/Login ===========
+2020-05-18 00:32:28 INFO  TC001_Task:94 - ============= My Account Home Page ===========
+2020-05-18 00:32:33 INFO  TC001_Task:98 - ============= Womens Section ===========
+2020-05-18 00:32:34 INFO  TC001_Task:102 - ============= Womens Section Product Detail===========
+2020-05-18 00:37:29 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 00:37:56 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 00:38:33 INFO  TC001_Task:82 - =======started verifyRegistration Test===========
+2020-05-18 00:38:37 INFO  TC001_Task:90 - ============= Started SignUp/Login ===========
+2020-05-18 00:38:40 INFO  TC001_Task:94 - ============= My Account Home Page ===========
+2020-05-18 00:38:49 INFO  TC001_Task:98 - ============= Womens Section ===========
+2020-05-18 00:38:50 INFO  TC001_Task:102 - ============= Womens Section Product Detail===========
+2020-05-18 00:44:19 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 00:44:39 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 00:45:01 INFO  TC001_Task:82 - =======started verifyRegistration Test===========
+2020-05-18 00:45:06 INFO  TC001_Task:90 - ============= Started SignUp/Login ===========
+2020-05-18 00:45:09 INFO  TC001_Task:94 - ============= My Account Home Page ===========
+2020-05-18 00:45:13 INFO  TC001_Task:98 - ============= Womens Section ===========
+2020-05-18 00:45:14 INFO  TC001_Task:102 - ============= Womens Section Product Detail===========
+2020-05-18 00:46:11 INFO  TC001_Task:105 - ============= Womens Section Product Quantity To AddTo cart===========
+2020-05-18 00:46:16 INFO  TC001_Task:108 - ============= My order===========
+2020-05-18 00:46:38 INFO  TestBase:293 - browser closed
+2020-05-18 00:47:32 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 00:47:48 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 00:48:14 INFO  TC001_Task:82 - =======started verifyRegistration Test===========
+2020-05-18 00:48:16 INFO  TC001_Task:90 - ============= Started SignUp/Login ===========
+2020-05-18 00:48:19 INFO  TC001_Task:94 - ============= My Account Home Page ===========
+2020-05-18 00:48:24 INFO  TC001_Task:98 - ============= Womens Section ===========
+2020-05-18 00:48:25 INFO  TC001_Task:102 - ============= Womens Section Product Detail===========
+2020-05-18 00:48:30 INFO  TC001_Task:105 - ============= Womens Section Product Quantity To AddTo cart===========
+2020-05-18 00:48:34 INFO  TC001_Task:108 - ============= My order===========
+2020-05-18 00:48:51 INFO  TestBase:293 - browser closed
+2020-05-18 00:50:42 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 00:51:01 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 00:51:13 INFO  TC001_Task:82 - =======started verifyRegistration Test===========
+2020-05-18 00:51:21 INFO  TC001_Task:90 - ============= Started SignUp/Login ===========
+2020-05-18 00:51:25 INFO  TC001_Task:94 - ============= My Account Home Page ===========
+2020-05-18 00:51:29 INFO  TC001_Task:98 - ============= Womens Section ===========
+2020-05-18 00:51:29 INFO  TC001_Task:102 - ============= Womens Section Product Detail===========
+2020-05-18 00:51:34 INFO  TC001_Task:105 - ============= Womens Section Product Quantity To AddTo cart===========
+2020-05-18 00:51:40 INFO  TC001_Task:108 - ============= My order===========
+2020-05-18 00:54:44 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 00:54:54 INFO  TC001_Task:82 - =======started verifyRegistration Test===========
+2020-05-18 00:55:07 INFO  TestBase:293 - browser closed
+2020-05-18 00:57:30 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 00:57:41 INFO  TC001_Task:82 - =======started verifyRegistration Test===========
+2020-05-18 00:57:44 INFO  TC001_Task:90 - ============= Started SignUp/Login ===========
+2020-05-18 00:57:46 INFO  TC001_Task:94 - ============= My Account Home Page ===========
+2020-05-18 00:57:50 INFO  TC001_Task:98 - ============= Womens Section ===========
+2020-05-18 00:57:50 INFO  TC001_Task:102 - ============= Womens Section Product Detail===========
+2020-05-18 00:57:55 INFO  TC001_Task:105 - ============= Womens Section Product Quantity To AddTo cart===========
+2020-05-18 00:58:00 INFO  TC001_Task:108 - ============= My order===========
+2020-05-18 00:58:43 INFO  TC001_Task:111 - ============= My order Confirmation===========
+2020-05-18 00:58:49 INFO  TestBase:293 - browser closed
+2020-05-18 01:01:41 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 01:01:52 INFO  TC001_Task:92 - =======started verifyRegistration Test===========
+2020-05-18 01:01:55 INFO  TC001_Task:100 - ============= Started SignUp/Login ===========
+2020-05-18 01:01:58 INFO  TC001_Task:104 - ============= My Account Home Page ===========
+2020-05-18 01:02:04 INFO  TC001_Task:108 - ============= Womens Section ===========
+2020-05-18 01:02:05 INFO  TC001_Task:112 - ============= Womens Section Product Detail===========
+2020-05-18 01:02:09 INFO  TC001_Task:115 - ============= Womens Section Product Quantity To AddTo cart===========
+2020-05-18 01:02:14 INFO  TC001_Task:118 - ============= My order===========
+2020-05-18 01:02:25 INFO  TC001_Task:121 - ============= My order Confirmation===========
+2020-05-18 01:02:42 INFO  TestBase:293 - browser closed
+2020-05-18 01:04:17 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 01:04:43 INFO  TC001_Task:61 - =======started verifyRegistration Test===========
+2020-05-18 01:04:45 INFO  TC001_Task:65 - ============= Started SignUp ===========
+2020-05-18 01:04:46 INFO  TC001_Task:70 - ============= Started filling Su=ignup personal and Address Details ===========
+2020-05-18 01:04:53 INFO  TC001_Task:76 - ============= My Account Home Page ===========
+2020-05-18 01:04:55 INFO  TC001_Task:93 - =======started verifyRegistration Test===========
+2020-05-18 01:04:55 INFO  TestBase:293 - browser closed
+2020-05-18 01:06:41 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 01:06:53 INFO  TC001_Task:55 - =======started verifyRegistration Test===========
+2020-05-18 01:06:55 INFO  TC001_Task:59 - ============= Started SignUp ===========
+2020-05-18 01:06:56 INFO  TC001_Task:64 - ============= Started filling Su=ignup personal and Address Details ===========
+2020-05-18 01:07:04 INFO  TC001_Task:70 - ============= My Account Home Page ===========
+2020-05-18 01:07:11 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 01:07:23 INFO  TC001_Task:87 - =======started verifyRegistration Test===========
+2020-05-18 01:07:25 INFO  TC001_Task:95 - ============= Started SignUp/Login ===========
+2020-05-18 01:07:28 INFO  TC001_Task:99 - ============= My Account Home Page ===========
+2020-05-18 01:07:32 INFO  TC001_Task:103 - ============= Womens Section ===========
+2020-05-18 01:07:32 INFO  TC001_Task:107 - ============= Womens Section Product Detail===========
+2020-05-18 01:07:37 INFO  TC001_Task:110 - ============= Womens Section Product Quantity To AddTo cart===========
+2020-05-18 01:07:41 INFO  TC001_Task:113 - ============= My order===========
+2020-05-18 01:07:53 INFO  TC001_Task:116 - ============= My order Confirmation===========
+2020-05-18 01:07:54 INFO  TestBase:293 - browser closed
+2020-05-18 01:12:30 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 01:12:43 INFO  TC001_Task:55 - =======started verifyRegistration Test===========
+2020-05-18 01:12:53 INFO  Retry:37 - Retrying test CustomerRegistration with status FAILURE for the 1 time(s).
+2020-05-18 01:12:54 INFO  TC001_Task:55 - =======started verifyRegistration Test===========
+2020-05-18 01:12:54 INFO  Retry:37 - Retrying test CustomerRegistration with status FAILURE for the 2 time(s).
+2020-05-18 01:12:54 INFO  TC001_Task:55 - =======started verifyRegistration Test===========
+2020-05-18 01:12:54 INFO  Retry:37 - Retrying test CustomerRegistration with status FAILURE for the 3 time(s).
+2020-05-18 01:12:54 INFO  TC001_Task:55 - =======started verifyRegistration Test===========
+2020-05-18 01:13:56 INFO  TestBase:293 - browser closed
+2020-05-18 01:14:20 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 01:14:33 INFO  TC001_Task:55 - =======started verifyRegistration Test===========
+2020-05-18 01:14:36 INFO  TC001_Task:59 - ============= Started SignUp ===========
+2020-05-18 01:14:37 INFO  TC001_Task:64 - ============= Started filling Su=ignup personal and Address Details ===========
+2020-05-18 01:14:46 INFO  TC001_Task:70 - ============= My Account Home Page ===========
+2020-05-18 01:14:53 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 01:15:06 INFO  TC001_Task:87 - =======started verifyRegistration Test===========
+2020-05-18 01:15:08 INFO  TC001_Task:95 - ============= Started SignUp/Login ===========
+2020-05-18 01:15:11 INFO  TC001_Task:99 - ============= My Account Home Page ===========
+2020-05-18 01:15:15 INFO  TC001_Task:103 - ============= Womens Section ===========
+2020-05-18 01:15:16 INFO  TC001_Task:107 - ============= Womens Section Product Detail===========
+2020-05-18 01:15:21 INFO  TC001_Task:110 - ============= Womens Section Product Quantity To AddTo cart===========
+2020-05-18 01:15:25 INFO  TC001_Task:113 - ============= My order===========
+2020-05-18 01:15:34 INFO  TC001_Task:116 - ============= My order Confirmation===========
+2020-05-18 01:15:36 INFO  TestBase:293 - browser closed
+2020-05-18 01:42:06 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 01:42:19 INFO  TC001_Task:88 - =======started verifyRegistration Test===========
+2020-05-18 01:42:21 INFO  TC001_Task:96 - ============= Started SignUp/Login ===========
+2020-05-18 01:42:24 INFO  TC001_Task:100 - ============= My Account Home Page ===========
+2020-05-18 01:42:28 INFO  TC001_Task:104 - ============= Womens Section ===========
+2020-05-18 01:42:29 INFO  TC001_Task:108 - ============= Womens Section Product Detail===========
+2020-05-18 01:42:33 INFO  TC001_Task:111 - ============= Womens Section Product Quantity To AddTo cart===========
+2020-05-18 01:42:37 INFO  TC001_Task:114 - ============= My order===========
+2020-05-18 01:42:49 INFO  TC001_Task:117 - ============= My order Confirmation===========
+2020-05-18 01:42:52 INFO  TC001_Task:120 - ============= My Account Home Page ===========
+2020-05-18 01:42:54 INFO  TC001_Task:124 - ============= My Account Home Page ===========
+2020-05-18 01:43:06 INFO  TestBase:293 - browser closed
+2020-05-18 01:44:54 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 01:45:05 INFO  TC001_Task:88 - =======started verifyRegistration Test===========
+2020-05-18 01:45:08 INFO  TC001_Task:96 - ============= Started SignUp/Login ===========
+2020-05-18 01:45:10 INFO  TC001_Task:100 - ============= My Account Home Page ===========
+2020-05-18 01:45:14 INFO  TC001_Task:104 - ============= Womens Section ===========
+2020-05-18 01:45:15 INFO  TC001_Task:108 - ============= Womens Section Product Detail===========
+2020-05-18 01:45:19 INFO  TC001_Task:111 - ============= Womens Section Product Quantity To AddTo cart===========
+2020-05-18 01:45:25 INFO  TC001_Task:114 - ============= My order===========
+2020-05-18 01:45:38 INFO  TC001_Task:117 - ============= My order Confirmation===========
+2020-05-18 01:45:40 INFO  TC001_Task:120 - ============= My Account Home Page ===========
+2020-05-18 01:45:44 INFO  TC001_Task:124 - ============= My Account Home Page ===========
+2020-05-18 01:45:46 INFO  TestBase:293 - browser closed
+2020-05-18 01:47:16 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 01:47:49 INFO  TC001_Task:56 - =======started verifyRegistration Test===========
+2020-05-18 01:47:51 INFO  TC001_Task:60 - ============= Started SignUp ===========
+2020-05-18 01:47:52 INFO  TC001_Task:65 - ============= Started filling Su=ignup personal and Address Details ===========
+2020-05-18 01:48:00 INFO  TC001_Task:71 - ============= My Account Home Page ===========
+2020-05-18 01:48:06 INFO  TestBase:140 - navigating to :-http://automationpractice.com/index.php
+2020-05-18 01:48:15 INFO  TC001_Task:87 - =======started verifyRegistration Test===========
+2020-05-18 01:48:18 INFO  TC001_Task:95 - ============= Started SignUp/Login ===========
+2020-05-18 01:48:23 INFO  TC001_Task:99 - ============= My Account Home Page ===========
+2020-05-18 01:48:27 INFO  TC001_Task:103 - ============= Womens Section ===========
+2020-05-18 01:48:28 INFO  TC001_Task:107 - ============= Womens Section Product Detail===========
+2020-05-18 01:48:31 INFO  TC001_Task:110 - ============= Womens Section Product Quantity To AddTo cart===========
+2020-05-18 01:48:36 INFO  TC001_Task:113 - ============= My order===========
+2020-05-18 01:48:46 INFO  TC001_Task:116 - ============= My order Confirmation===========
+2020-05-18 01:48:47 INFO  TC001_Task:119 - ============= My Account Home Page ===========
+2020-05-18 01:48:50 INFO  TC001_Task:123 - ============= My Account Home Page ===========
+2020-05-18 01:48:52 INFO  TestBase:293 - browser closed

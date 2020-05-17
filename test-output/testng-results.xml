@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\verifyRegistration_18_05_2020_01_47_51.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\verifyRegistration_18_05_2020_01_47_51.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\EmaildEntered_18_05_2020_01_47_52.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\EmaildEntered_18_05_2020_01_47_52.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\createAnAccount_18_05_2020_01_47_53.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\createAnAccount_18_05_2020_01_47_53.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\AllDetailsEnetered_18_05_2020_01_47_57.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\AllDetailsEnetered_18_05_2020_01_47_57.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_00.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_00.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_23.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_23.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\WomenSections_18_05_2020_01_48_27.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\WomenSections_18_05_2020_01_48_27.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\WomenSectionProduct_18_05_2020_01_48_28.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\WomenSectionProduct_18_05_2020_01_48_28.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\ProductAddToCart_18_05_2020_01_48_31.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\ProductAddToCart_18_05_2020_01_48_31.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyOrder_18_05_2020_01_48_36.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyOrder_18_05_2020_01_48_36.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyOrderConfirmation_18_05_2020_01_48_46.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyOrderConfirmation_18_05_2020_01_48_46.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_47.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_47.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyOrderHistoryPage_18_05_2020_01_48_50.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyOrderHistoryPage_18_05_2020_01_48_50.png' height='100' width='100'/> </a>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-05-17T20:17:11Z" name="Default suite" finished-at="2020-05-17T20:18:52Z" duration-ms="101375">
+    <groups>
+    </groups>
+    <test started-at="2020-05-17T20:17:11Z" name="Default test" finished-at="2020-05-17T20:18:52Z" duration-ms="101375">
+      <class name="com.test.automation.uiAutomation.homepage.TC001_Task">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@3bd323e9]" started-at="2020-05-18T01:47:11Z" name="setUp" finished-at="2020-05-18T01:47:34Z" duration-ms="23824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@3bd323e9]" started-at="2020-05-18T01:47:49Z" name="beforeMethod" finished-at="2020-05-18T01:47:49Z" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.automation.uiAutomation.homepage.TC001_Task.CustomerRegistration(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="CustomerRegistration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@3bd323e9]" started-at="2020-05-18T01:47:49Z" name="CustomerRegistration" data-provider="SignUpData" finished-at="2020-05-18T01:48:02Z" duration-ms="13519" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vivek]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kumar jha]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Test0001]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1991]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[vivek]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[kumar jha]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Deen Dayal Marg]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[New york]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[New York]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[8791817190]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Email]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[fdsf@gmail.com]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[10016]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\verifyRegistration_18_05_2020_01_47_51.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\verifyRegistration_18_05_2020_01_47_51.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\EmaildEntered_18_05_2020_01_47_52.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\EmaildEntered_18_05_2020_01_47_52.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\createAnAccount_18_05_2020_01_47_53.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\createAnAccount_18_05_2020_01_47_53.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\AllDetailsEnetered_18_05_2020_01_47_57.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\AllDetailsEnetered_18_05_2020_01_47_57.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_00.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_00.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CustomerRegistration -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@3bd323e9]" started-at="2020-05-18T01:48:02Z" name="afterMethod" finished-at="2020-05-18T01:48:02Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CustomerRegistration status=SUCCESS method=TC001_Task.CustomerRegistration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@3bd323e9] output=<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\verifyRegistration_18_05_2020_01_47_51.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\verifyRegistration_18_05_2020_01_47_51.png' height='100' width='100'/> </a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@3bd323e9]" started-at="2020-05-18T01:48:02Z" name="beforeMethod" finished-at="2020-05-18T01:48:02Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.automation.uiAutomation.homepage.TC001_Task.LoginWithNewUserAndAddproductNAndProcdTochkout() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="LoginWithNewUserAndAddproductNAndProcdTochkout()[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@3bd323e9]" started-at="2020-05-18T01:48:02Z" name="LoginWithNewUserAndAddproductNAndProcdTochkout" finished-at="2020-05-18T01:48:50Z" depends-on-methods="com.test.automation.uiAutomation.homepage.TC001_Task.CustomerRegistration" duration-ms="48401" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_23.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_23.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\WomenSections_18_05_2020_01_48_27.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\WomenSections_18_05_2020_01_48_27.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\WomenSectionProduct_18_05_2020_01_48_28.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\WomenSectionProduct_18_05_2020_01_48_28.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\ProductAddToCart_18_05_2020_01_48_31.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\ProductAddToCart_18_05_2020_01_48_31.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyOrder_18_05_2020_01_48_36.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyOrder_18_05_2020_01_48_36.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyOrderConfirmation_18_05_2020_01_48_46.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyOrderConfirmation_18_05_2020_01_48_46.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_47.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_47.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyOrderHistoryPage_18_05_2020_01_48_50.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyOrderHistoryPage_18_05_2020_01_48_50.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginWithNewUserAndAddproductNAndProcdTochkout -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@3bd323e9]" started-at="2020-05-18T01:48:50Z" name="TearDown" finished-at="2020-05-18T01:48:52Z" duration-ms="1150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@3bd323e9]" started-at="2020-05-18T01:48:50Z" name="afterMethod" finished-at="2020-05-18T01:48:50Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginWithNewUserAndAddproductNAndProcdTochkout status=SUCCESS method=TC001_Task.LoginWithNewUserAndAddproductNAndProcdTochkout()[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@3bd323e9] output=<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_23.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_23.png' height='100' width='100'/> </a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@3bd323e9]" started-at="2020-05-18T01:48:52Z" name="endTest" finished-at="2020-05-18T01:48:52Z" duration-ms="339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.test.automation.uiAutomation.homepage.TC001_Task -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

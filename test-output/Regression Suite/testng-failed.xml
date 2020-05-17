@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Regression Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.test.automation.uiAutomation.customListner.RetryListener"/>
+  </listeners>
+  <test name="HomePageTest_AddToCart_ProceedToChkOut(failed)">
+    <classes>
+      <class name="com.test.automation.uiAutomation.homepage.TC001_Task">
+        <methods>
+          <include name="CustomerRegistration" invocation-numbers="0 0 0 0"/>
+          <include name="LoginWithNewUserAndAddproductNAndProcdTochkout"/>
+          <include name="setUp"/>
+          <include name="beforeMethod"/>
+          <include name="endTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.test.automation.uiAutomation.homepage.TC001_Task -->
+    </classes>
+  </test> <!-- HomePageTest_AddToCart_ProceedToChkOut(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->
