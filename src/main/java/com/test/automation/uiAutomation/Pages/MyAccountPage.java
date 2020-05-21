@@ -1,4 +1,4 @@
-package com.test.automation.uiAutomation.uiActions;
+package com.test.automation.uiAutomation.Pages;
 
 import java.util.List;
 
@@ -9,13 +9,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 
-
-/**
- * 
- * @author Vivek Kumar Jha
- *
- */
-import com.test.automation.uiAutomation.testBase.TestBase;
+import com.test.automation.uiAutomation.Generic.Base.TestBase;
 
 public class MyAccountPage extends TestBase{
 	WebDriver driver;

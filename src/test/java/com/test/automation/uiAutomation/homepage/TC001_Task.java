@@ -10,15 +10,15 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import com.test.automation.uiAutomation.testBase.CommonMethods;
-import com.test.automation.uiAutomation.testBase.TestBase;
-import com.test.automation.uiAutomation.uiActions.CreateAnAccountPage;
-import com.test.automation.uiAutomation.uiActions.HomePage;
-import com.test.automation.uiAutomation.uiActions.LoginandRegistrationPage;
-import com.test.automation.uiAutomation.uiActions.MyAccountPage;
-import com.test.automation.uiAutomation.uiActions.MyOrderPage;
-import com.test.automation.uiAutomation.uiActions.OrderDetailsPage;
-import com.test.automation.uiAutomation.uiActions.ProductDetailPage;
+import com.test.automation.uiAutomation.Generic.Base.TestBase;
+import com.test.automation.uiAutomation.Generic.CommonMethods.CommonMethods;
+import com.test.automation.uiAutomation.Pages.CreateAnAccountPage;
+import com.test.automation.uiAutomation.Pages.HomePage;
+import com.test.automation.uiAutomation.Pages.LoginandRegistrationPage;
+import com.test.automation.uiAutomation.Pages.MyAccountPage;
+import com.test.automation.uiAutomation.Pages.MyOrderPage;
+import com.test.automation.uiAutomation.Pages.OrderDetailsPage;
+import com.test.automation.uiAutomation.Pages.ProductDetailPage;
 /**
  * 
  * @author Vivek Kumar Jha
@@ -76,7 +76,7 @@ public class TC001_Task extends TestBase {
 		System.out.println("Email Key is : "+EmailKey + " and Email Value is : "+EmailidCust);
 		CommonMethods.SaveInProperties(EmailKey, EmailidCust);
 		
-		driver.quit();
+		//driver.quit();
 	}
 	
 	@Test(dependsOnMethods = {"CustomerRegistration"},enabled = true)

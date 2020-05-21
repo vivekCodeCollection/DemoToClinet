@@ -1,4 +1,4 @@
-package com.test.automation.uiAutomation.uiActions;
+package com.test.automation.uiAutomation.Pages;
 
 import java.util.Set;
 
@@ -8,7 +8,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import com.test.automation.uiAutomation.testBase.TestBase;
+import com.test.automation.uiAutomation.Generic.Base.TestBase;
 
 
 /**

@@ -1,4 +1,4 @@
-package com.test.automation.uiAutomation.uiActions;
+package com.test.automation.uiAutomation.Pages;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
@@ -7,7 +7,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 
-import com.test.automation.uiAutomation.testBase.TestBase;
+import com.test.automation.uiAutomation.Generic.Base.TestBase;
 
 
 /**

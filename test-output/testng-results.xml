@@ -2,55 +2,61 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\verifyRegistration_18_05_2020_01_47_51.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\verifyRegistration_18_05_2020_01_47_51.png' height='100' width='100'/> </a>]]>
+      <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\verifyRegistration_22_05_2020_02_51_04.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\verifyRegistration_22_05_2020_02_51_04.png' height='100' width='100'/> </a>]]>
     </line>
     <line>
-      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\EmaildEntered_18_05_2020_01_47_52.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\EmaildEntered_18_05_2020_01_47_52.png' height='100' width='100'/> </a>]]>
+      <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\EmaildEntered_22_05_2020_02_51_05.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\EmaildEntered_22_05_2020_02_51_05.png' height='100' width='100'/> </a>]]>
     </line>
     <line>
-      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\createAnAccount_18_05_2020_01_47_53.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\createAnAccount_18_05_2020_01_47_53.png' height='100' width='100'/> </a>]]>
+      <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\createAnAccount_22_05_2020_02_51_06.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\createAnAccount_22_05_2020_02_51_06.png' height='100' width='100'/> </a>]]>
     </line>
     <line>
-      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\AllDetailsEnetered_18_05_2020_01_47_57.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\AllDetailsEnetered_18_05_2020_01_47_57.png' height='100' width='100'/> </a>]]>
+      <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\AllDetailsEnetered_22_05_2020_02_51_11.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\AllDetailsEnetered_22_05_2020_02_51_11.png' height='100' width='100'/> </a>]]>
     </line>
     <line>
-      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_00.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_00.png' height='100' width='100'/> </a>]]>
+      <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyAccountHomePage_22_05_2020_02_51_14.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyAccountHomePage_22_05_2020_02_51_14.png' height='100' width='100'/> </a>]]>
     </line>
     <line>
-      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_23.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_23.png' height='100' width='100'/> </a>]]>
+      <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\Test_22_05_2020_02_51_15.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\Test_22_05_2020_02_51_15.png' height='100' width='100'/> </a>]]>
     </line>
     <line>
-      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\WomenSections_18_05_2020_01_48_27.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\WomenSections_18_05_2020_01_48_27.png' height='100' width='100'/> </a>]]>
+      <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyAccountHomePage_22_05_2020_02_52_18.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyAccountHomePage_22_05_2020_02_52_18.png' height='100' width='100'/> </a>]]>
     </line>
     <line>
-      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\WomenSectionProduct_18_05_2020_01_48_28.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\WomenSectionProduct_18_05_2020_01_48_28.png' height='100' width='100'/> </a>]]>
+      <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\WomenSections_22_05_2020_02_52_23.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\WomenSections_22_05_2020_02_52_23.png' height='100' width='100'/> </a>]]>
     </line>
     <line>
-      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\ProductAddToCart_18_05_2020_01_48_31.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\ProductAddToCart_18_05_2020_01_48_31.png' height='100' width='100'/> </a>]]>
+      <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\WomenSectionProduct_22_05_2020_02_52_24.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\WomenSectionProduct_22_05_2020_02_52_24.png' height='100' width='100'/> </a>]]>
     </line>
     <line>
-      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyOrder_18_05_2020_01_48_36.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyOrder_18_05_2020_01_48_36.png' height='100' width='100'/> </a>]]>
+      <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\ProductAddToCart_22_05_2020_02_52_29.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\ProductAddToCart_22_05_2020_02_52_29.png' height='100' width='100'/> </a>]]>
     </line>
     <line>
-      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyOrderConfirmation_18_05_2020_01_48_46.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyOrderConfirmation_18_05_2020_01_48_46.png' height='100' width='100'/> </a>]]>
+      <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyOrder_22_05_2020_02_52_34.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyOrder_22_05_2020_02_52_34.png' height='100' width='100'/> </a>]]>
     </line>
     <line>
-      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_47.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_47.png' height='100' width='100'/> </a>]]>
+      <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyOrderConfirmation_22_05_2020_02_52_48.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyOrderConfirmation_22_05_2020_02_52_48.png' height='100' width='100'/> </a>]]>
     </line>
     <line>
-      <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyOrderHistoryPage_18_05_2020_01_48_50.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyOrderHistoryPage_18_05_2020_01_48_50.png' height='100' width='100'/> </a>]]>
+      <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyAccountHomePage_22_05_2020_02_52_51.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyAccountHomePage_22_05_2020_02_52_51.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyOrderHistoryPage_22_05_2020_02_52_54.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyOrderHistoryPage_22_05_2020_02_52_54.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\Test_22_05_2020_02_52_54.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\Test_22_05_2020_02_52_54.png' height='100' width='100'/> </a>]]>
     </line>
   </reporter-output>
-  <suite started-at="2020-05-17T20:17:11Z" name="Default suite" finished-at="2020-05-17T20:18:52Z" duration-ms="101375">
+  <suite started-at="2020-05-22T02:50:35 IST" name="Default suite" finished-at="2020-05-22T02:53:23 IST" duration-ms="168027">
     <groups>
     </groups>
-    <test started-at="2020-05-17T20:17:11Z" name="Default test" finished-at="2020-05-17T20:18:52Z" duration-ms="101375">
+    <test started-at="2020-05-22T02:50:35 IST" name="Default test" finished-at="2020-05-22T02:53:23 IST" duration-ms="168027">
       <class name="com.test.automation.uiAutomation.homepage.TC001_Task">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@3bd323e9]" started-at="2020-05-18T01:47:11Z" name="setUp" finished-at="2020-05-18T01:47:34Z" duration-ms="23824" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@528c868]" started-at="2020-05-22T02:50:35 IST" name="setUp" finished-at="2020-05-22T02:51:00 IST" duration-ms="24991" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@3bd323e9]" started-at="2020-05-18T01:47:49Z" name="beforeMethod" finished-at="2020-05-18T01:47:49Z" duration-ms="7" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@528c868]" started-at="2020-05-22T02:51:01 IST" name="beforeMethod" finished-at="2020-05-22T02:51:01 IST" duration-ms="10" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -61,7 +67,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="CustomerRegistration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@3bd323e9]" started-at="2020-05-18T01:47:49Z" name="CustomerRegistration" data-provider="SignUpData" finished-at="2020-05-18T01:48:02Z" duration-ms="13519" status="PASS">
+        <test-method signature="CustomerRegistration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@528c868]" started-at="2020-05-22T02:51:01 IST" name="CustomerRegistration" data-provider="SignUpData" finished-at="2020-05-22T02:51:15 IST" duration-ms="14190" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -141,34 +147,37 @@
           </params>
           <reporter-output>
             <line>
-              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\verifyRegistration_18_05_2020_01_47_51.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\verifyRegistration_18_05_2020_01_47_51.png' height='100' width='100'/> </a>]]>
+              <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\verifyRegistration_22_05_2020_02_51_04.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\verifyRegistration_22_05_2020_02_51_04.png' height='100' width='100'/> </a>]]>
             </line>
             <line>
-              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\EmaildEntered_18_05_2020_01_47_52.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\EmaildEntered_18_05_2020_01_47_52.png' height='100' width='100'/> </a>]]>
+              <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\EmaildEntered_22_05_2020_02_51_05.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\EmaildEntered_22_05_2020_02_51_05.png' height='100' width='100'/> </a>]]>
             </line>
             <line>
-              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\createAnAccount_18_05_2020_01_47_53.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\createAnAccount_18_05_2020_01_47_53.png' height='100' width='100'/> </a>]]>
+              <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\createAnAccount_22_05_2020_02_51_06.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\createAnAccount_22_05_2020_02_51_06.png' height='100' width='100'/> </a>]]>
             </line>
             <line>
-              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\AllDetailsEnetered_18_05_2020_01_47_57.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\AllDetailsEnetered_18_05_2020_01_47_57.png' height='100' width='100'/> </a>]]>
+              <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\AllDetailsEnetered_22_05_2020_02_51_11.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\AllDetailsEnetered_22_05_2020_02_51_11.png' height='100' width='100'/> </a>]]>
             </line>
             <line>
-              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_00.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_00.png' height='100' width='100'/> </a>]]>
+              <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyAccountHomePage_22_05_2020_02_51_14.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyAccountHomePage_22_05_2020_02_51_14.png' height='100' width='100'/> </a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- CustomerRegistration -->
-        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@3bd323e9]" started-at="2020-05-18T01:48:02Z" name="afterMethod" finished-at="2020-05-18T01:48:02Z" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@528c868]" started-at="2020-05-22T02:51:15 IST" name="afterMethod" finished-at="2020-05-22T02:51:44 IST" duration-ms="29165" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=CustomerRegistration status=SUCCESS method=TC001_Task.CustomerRegistration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@3bd323e9] output=<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\verifyRegistration_18_05_2020_01_47_51.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\verifyRegistration_18_05_2020_01_47_51.png' height='100' width='100'/> </a>]]]>
+                <![CDATA[[TestResult name=CustomerRegistration status=SUCCESS method=TC001_Task.CustomerRegistration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@528c868] output=<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\verifyRegistration_22_05_2020_02_51_04.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\verifyRegistration_22_05_2020_02_51_04.png' height='100' width='100'/> </a>]]]>
               </value>
             </param>
           </params>
           <reporter-output>
+            <line>
+              <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\Test_22_05_2020_02_51_15.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\Test_22_05_2020_02_51_15.png' height='100' width='100'/> </a>]]>
+            </line>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@3bd323e9]" started-at="2020-05-18T01:48:02Z" name="beforeMethod" finished-at="2020-05-18T01:48:02Z" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@528c868]" started-at="2020-05-22T02:51:44 IST" name="beforeMethod" finished-at="2020-05-22T02:51:44 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -179,50 +188,53 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="LoginWithNewUserAndAddproductNAndProcdTochkout()[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@3bd323e9]" started-at="2020-05-18T01:48:02Z" name="LoginWithNewUserAndAddproductNAndProcdTochkout" finished-at="2020-05-18T01:48:50Z" depends-on-methods="com.test.automation.uiAutomation.homepage.TC001_Task.CustomerRegistration" duration-ms="48401" status="PASS">
+        <test-method signature="LoginWithNewUserAndAddproductNAndProcdTochkout()[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@528c868]" started-at="2020-05-22T02:51:44 IST" name="LoginWithNewUserAndAddproductNAndProcdTochkout" finished-at="2020-05-22T02:52:54 IST" depends-on-methods="com.test.automation.uiAutomation.homepage.TC001_Task.CustomerRegistration" duration-ms="70394" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_23.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_23.png' height='100' width='100'/> </a>]]>
+              <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyAccountHomePage_22_05_2020_02_52_18.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyAccountHomePage_22_05_2020_02_52_18.png' height='100' width='100'/> </a>]]>
             </line>
             <line>
-              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\WomenSections_18_05_2020_01_48_27.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\WomenSections_18_05_2020_01_48_27.png' height='100' width='100'/> </a>]]>
+              <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\WomenSections_22_05_2020_02_52_23.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\WomenSections_22_05_2020_02_52_23.png' height='100' width='100'/> </a>]]>
             </line>
             <line>
-              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\WomenSectionProduct_18_05_2020_01_48_28.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\WomenSectionProduct_18_05_2020_01_48_28.png' height='100' width='100'/> </a>]]>
+              <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\WomenSectionProduct_22_05_2020_02_52_24.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\WomenSectionProduct_22_05_2020_02_52_24.png' height='100' width='100'/> </a>]]>
             </line>
             <line>
-              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\ProductAddToCart_18_05_2020_01_48_31.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\ProductAddToCart_18_05_2020_01_48_31.png' height='100' width='100'/> </a>]]>
+              <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\ProductAddToCart_22_05_2020_02_52_29.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\ProductAddToCart_22_05_2020_02_52_29.png' height='100' width='100'/> </a>]]>
             </line>
             <line>
-              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyOrder_18_05_2020_01_48_36.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyOrder_18_05_2020_01_48_36.png' height='100' width='100'/> </a>]]>
+              <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyOrder_22_05_2020_02_52_34.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyOrder_22_05_2020_02_52_34.png' height='100' width='100'/> </a>]]>
             </line>
             <line>
-              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyOrderConfirmation_18_05_2020_01_48_46.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyOrderConfirmation_18_05_2020_01_48_46.png' height='100' width='100'/> </a>]]>
+              <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyOrderConfirmation_22_05_2020_02_52_48.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyOrderConfirmation_22_05_2020_02_52_48.png' height='100' width='100'/> </a>]]>
             </line>
             <line>
-              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_47.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_47.png' height='100' width='100'/> </a>]]>
+              <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyAccountHomePage_22_05_2020_02_52_51.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyAccountHomePage_22_05_2020_02_52_51.png' height='100' width='100'/> </a>]]>
             </line>
             <line>
-              <![CDATA[<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyOrderHistoryPage_18_05_2020_01_48_50.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyOrderHistoryPage_18_05_2020_01_48_50.png' height='100' width='100'/> </a>]]>
+              <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyOrderHistoryPage_22_05_2020_02_52_54.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyOrderHistoryPage_22_05_2020_02_52_54.png' height='100' width='100'/> </a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- LoginWithNewUserAndAddproductNAndProcdTochkout -->
-        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@3bd323e9]" started-at="2020-05-18T01:48:50Z" name="TearDown" finished-at="2020-05-18T01:48:52Z" duration-ms="1150" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TearDown -->
-        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@3bd323e9]" started-at="2020-05-18T01:48:50Z" name="afterMethod" finished-at="2020-05-18T01:48:50Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@528c868]" started-at="2020-05-22T02:52:54 IST" name="afterMethod" finished-at="2020-05-22T02:53:16 IST" duration-ms="21243" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=LoginWithNewUserAndAddproductNAndProcdTochkout status=SUCCESS method=TC001_Task.LoginWithNewUserAndAddproductNAndProcdTochkout()[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@3bd323e9] output=<a href='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_23.png'> <img src='E:\git\PageObjectWithPageFactoryFramework\src\main\java\com\test\automation\uiAutomation\screenshot\MyAccountHomePage_18_05_2020_01_48_23.png' height='100' width='100'/> </a>]]]>
+                <![CDATA[[TestResult name=LoginWithNewUserAndAddproductNAndProcdTochkout status=SUCCESS method=TC001_Task.LoginWithNewUserAndAddproductNAndProcdTochkout()[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@528c868] output=<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyAccountHomePage_22_05_2020_02_52_18.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\MyAccountHomePage_22_05_2020_02_52_18.png' height='100' width='100'/> </a>]]]>
               </value>
             </param>
           </params>
           <reporter-output>
+            <line>
+              <![CDATA[<a href='E:\workspace\CrossAsystTechnologies\resources\screenshot\Test_22_05_2020_02_52_54.png'> <img src='E:\workspace\CrossAsystTechnologies\resources\screenshot\Test_22_05_2020_02_52_54.png' height='100' width='100'/> </a>]]>
+            </line>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="endTest()[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@3bd323e9]" started-at="2020-05-18T01:48:52Z" name="endTest" finished-at="2020-05-18T01:48:52Z" duration-ms="339" status="PASS">
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@528c868]" started-at="2020-05-22T02:53:16 IST" name="TearDown" finished-at="2020-05-22T02:53:22 IST" duration-ms="6220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.test.automation.uiAutomation.homepage.TC001_Task@528c868]" started-at="2020-05-22T02:53:22 IST" name="endTest" finished-at="2020-05-22T02:53:23 IST" duration-ms="849" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->

@@ -1,4 +1,4 @@
-package com.test.automation.uiAutomation.testBase;
+package com.test.automation.uiAutomation.Generic.CommonMethods;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -45,9 +45,9 @@ return sb.toString();
 public static void SaveInProperties(String key,String value) {
 	Properties properties = new Properties();
 	try {
-		InputStream inputstream = new FileInputStream(System.getProperty("user.dir")+".\\src\\main\\java\\com\\test\\automation\\uiAutomation\\config\\common.properties");
+		InputStream inputstream = new FileInputStream(System.getProperty("user.dir")+"/resources/Configuration/common.properties");
 		properties.load(inputstream);
-		 OutputStream outputStream = new FileOutputStream(System.getProperty("user.dir")+".\\src\\main\\java\\com\\test\\automation\\uiAutomation\\config\\common.properties");  
+		 OutputStream outputStream = new FileOutputStream(System.getProperty("user.dir")+"/resources/Configuration/common.properties");  
 		
 		properties.setProperty(key, value);	  
 	    properties.store(outputStream, null);
@@ -60,7 +60,7 @@ public static String GetProperties(String key) {
 	
 	String value=null;
 	try {		  
-		File file = new File(System.getProperty("user.dir") + "/src/main/java/com/test/automation/uiAutomation/config/common.properties");
+		File file = new File(System.getProperty("user.dir") + "/resources/Configuration/common.properties");
 		FileInputStream f = new FileInputStream(file);	
 		properties.load(f);
 		value=properties.getProperty(key);

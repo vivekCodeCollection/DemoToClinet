@@ -1,14 +1,12 @@
-package com.test.automation.uiAutomation.testBase;
+package com.test.automation.uiAutomation.Generic.Base;
 
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.lang.reflect.Method;
-import java.net.MalformedURLException;
 import java.net.URL;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
-import java.util.GregorianCalendar;
 import java.util.Iterator;
 import java.util.Properties;
 import java.util.Set;
@@ -35,14 +33,12 @@ import org.testng.Reporter;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Parameters;
 
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
-import com.test.automation.uiAutomation.customListner.WebEventListener;
-import com.test.automation.uiAutomation.excelReader.Excel_Reader;
+import com.test.automation.uiAutomation.Generic.CommonMethods.Excel_Reader;
+import com.test.automation.uiAutomation.Generic.customListner.WebEventListener;
 
 /**
  * 
@@ -69,11 +65,11 @@ public class TestBase {
 	static {
 		Calendar calendar = Calendar.getInstance();
 		SimpleDateFormat formater = new SimpleDateFormat("dd_MM_yyyy_hh_mm_ss");
-		extent = new ExtentReports(System.getProperty("user.dir") + "/src/main/java/com/test/automation/uiAutomation/report/test" + formater.format(calendar.getTime()) + ".html", false);
+		extent = new ExtentReports(System.getProperty("user.dir") + "/resources/report/" + formater.format(calendar.getTime()) + ".html", false);
 	}
 
 	public void loadData() throws IOException {
-		File file = new File(System.getProperty("user.dir") + "/src/main/java/com/test/automation/uiAutomation/config/config.properties");
+		File file = new File(System.getProperty("user.dir") + "/resources/Configuration/config.properties");
 		FileInputStream f = new FileInputStream(file);
 		OR.load(f);
 
@@ -146,7 +142,7 @@ public class TestBase {
 	}
 
 	public String[][] getData(String excelName, String sheetName) {
-		String path = System.getProperty("user.dir") + "/src/main/java/com/test/automation/uiAutomation/data/" + excelName;
+		String path = System.getProperty("user.dir") + "/resources/TestData/" + excelName;
 		excel = new Excel_Reader(path);
 		String[][] data = excel.getDataFromSheet(sheetName, excelName);
 		return data;
@@ -165,7 +161,7 @@ public class TestBase {
 		File scrFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 
 		try {
-			String reportDirectory = new File(System.getProperty("user.dir")).getAbsolutePath() + "/src/main/java/com/test/automation/uiAutomation/screenshot/";
+			String reportDirectory = new File(System.getProperty("user.dir")).getAbsolutePath() + "/resources/screenshot/";
 			File destFile = new File((String) reportDirectory + name + "_" + formater.format(calendar.getTime()) + ".png");
 			FileUtils.copyFile(scrFile, destFile);
 			// This will help us to link the screen shot in testNG report
@@ -198,7 +194,7 @@ public class TestBase {
 
 		File scrFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 		try {
-			String reportDirectory = new File(System.getProperty("user.dir")).getAbsolutePath() + "/src/main/java/com/test/automation/uiAutomation/";
+			String reportDirectory = new File(System.getProperty("user.dir")).getAbsolutePath() + "/resources/screenshot/";
 			File destFile = new File((String) reportDirectory + "/" + folderName + "/" + methodName + "_" + formater.format(calendar.getTime()) + ".png");
 
 			FileUtils.copyFile(scrFile, destFile);
@@ -218,7 +214,7 @@ public class TestBase {
 
 		File scrFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 		try {
-			String reportDirectory = new File(System.getProperty("user.dir")).getAbsolutePath() + "/src/main/java/com/test/automation/uiAutomation/";
+			String reportDirectory = new File(System.getProperty("user.dir")).getAbsolutePath() + "/resources/screenshot/";
 			File destFile = new File((String) reportDirectory + "/failure_screenshots/" + methodName + "_" + formater.format(calendar.getTime()) + ".png");
 
 			FileUtils.copyFile(scrFile, destFile);
@@ -232,7 +228,7 @@ public class TestBase {
 
 	public String captureScreen(String fileName) {
 		if (fileName == "") {
-			fileName = "blank";
+			fileName = "Test";
 		}
 		File destFile = null;
 		Calendar calendar = Calendar.getInstance();
@@ -241,11 +237,12 @@ public class TestBase {
 		File scrFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 
 		try {
-			String reportDirectory = new File(System.getProperty("user.dir")).getAbsolutePath() + "/src/main/java/com/test/automation/uiAutomation/screenshot/";
+			String reportDirectory = new File(System.getProperty("user.dir")).getAbsolutePath() + "/resources/screenshot/";
 			destFile = new File((String) reportDirectory + fileName + "_" + formater.format(calendar.getTime()) + ".png");
+			System.out.println("Destination folder is "+destFile);
 			FileUtils.copyFile(scrFile, destFile);
 			// This will help us to link the screen shot in testNG report
-			Reporter.log("<a href='" + destFile.getAbsolutePath() + "'> <img src='" + destFile.getAbsolutePath() + "' height='100' width='100'/> </a>");
+			Reporter.log("<a href='" + destFile.getAbsolutePath() + "'> <img src='" + destFile.getAbsolutePath() + "' height='100' width='100'/> </a>",true);
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
@@ -260,9 +257,13 @@ public class TestBase {
 
 	public void getresult(ITestResult result) {
 		if (result.getStatus() == ITestResult.SUCCESS) {
-			test.log(LogStatus.PASS, result.getName() + " test is pass");
+			test.log(LogStatus.PASS, result.getName() + " test is pass");			
+			String screen = captureScreen("");
+			test.log(LogStatus.PASS, test.addScreenCapture(screen));
 		} else if (result.getStatus() == ITestResult.SKIP) {
 			test.log(LogStatus.SKIP, result.getName() + " test is skipped and skip reason is:-" + result.getThrowable());
+			String screen = captureScreen("");
+			test.log(LogStatus.SKIP, test.addScreenCapture(screen));		
 		} else if (result.getStatus() == ITestResult.FAILURE) {
 			test.log(LogStatus.ERROR, result.getName() + " test is failed" + result.getThrowable());
 			String screen = captureScreen("");
@@ -275,11 +276,13 @@ public class TestBase {
 	@AfterMethod()
 	public void afterMethod(ITestResult result) {
 		getresult(result);
+		extent.endTest(test);
 	}
 
 	@BeforeMethod()
 	public void beforeMethod(Method result) {
-		test = extent.startTest(result.getName());
+		//test = extent.startTest(result.getName());
+		test = extent.startTest("captureScreenshot");
 		test.log(LogStatus.INFO, result.getName() + " test Started");
 	}
 
@@ -293,6 +296,7 @@ public class TestBase {
 		log.info("browser closed");
 		extent.endTest(test);
 		extent.flush();
+		extent.close();
 	}
 
 	public WebElement waitForElement(WebDriver driver, WebElement element, long timeOutInSeconds) {
@@ -421,4 +425,6 @@ public static void SelectDdpByIndex(WebElement element,Integer index) {
 	select.selectByIndex(index);
 	
 }
+
+
 }

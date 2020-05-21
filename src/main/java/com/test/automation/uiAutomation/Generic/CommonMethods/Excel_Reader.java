@@ -1,4 +1,4 @@
-package com.test.automation.uiAutomation.excelReader;
+package com.test.automation.uiAutomation.Generic.CommonMethods;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -23,8 +23,7 @@ public class Excel_Reader {
 	public XSSFRow row;
 	public XSSFCell cell;
 
-	//Users/bsingh5/git/POMWithPageFactoryFramework
-	//src/main/java/com/test/automation/uiAutomation/testData.xls;
+	
 	
 	public Excel_Reader(String path) {
 		this.path = path;
