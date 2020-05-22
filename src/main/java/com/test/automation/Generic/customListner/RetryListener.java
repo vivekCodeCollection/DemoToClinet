@@ -1,4 +1,4 @@
-package com.test.automation.uiAutomation.Generic.customListner;
+package com.test.automation.Generic.customListner;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;

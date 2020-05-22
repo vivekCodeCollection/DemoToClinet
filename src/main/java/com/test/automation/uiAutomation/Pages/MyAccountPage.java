@@ -9,7 +9,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 
-import com.test.automation.uiAutomation.Generic.Base.TestBase;
+import com.test.automation.Generic.Base.TestBase;
 
 public class MyAccountPage extends TestBase{
 	WebDriver driver;

@@ -1,4 +1,4 @@
-package com.test.automation.uiAutomation.homepage;
+package com.test.automation.UiTest;
 
 import java.io.IOException;
 import org.apache.log4j.Logger;
@@ -10,8 +10,8 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import com.test.automation.uiAutomation.Generic.Base.TestBase;
-import com.test.automation.uiAutomation.Generic.CommonMethods.CommonMethods;
+import com.test.automation.Generic.Base.TestBase;
+import com.test.automation.Generic.CommonMethods.CommonMethods;
 import com.test.automation.uiAutomation.Pages.CreateAnAccountPage;
 import com.test.automation.uiAutomation.Pages.HomePage;
 import com.test.automation.uiAutomation.Pages.LoginandRegistrationPage;

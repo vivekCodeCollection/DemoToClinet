@@ -1,4 +1,4 @@
-package com.test.automation.uiAutomation.Generic.CommonMethods;
+package com.test.automation.Generic.CommonMethods;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

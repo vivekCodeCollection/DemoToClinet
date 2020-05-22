@@ -1,4 +1,4 @@
-package com.test.automation.uiAutomation.Generic.customListner;
+package com.test.automation.Generic.customListner;
 
 import org.apache.log4j.Logger;
 import org.testng.IRetryAnalyzer;

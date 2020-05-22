@@ -1,4 +1,4 @@
-package com.test.automation.uiAutomation.Generic.customListner;
+package com.test.automation.Generic.customListner;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
@@ -8,7 +8,7 @@ import org.openqa.selenium.support.events.WebDriverEventListener;
 import org.testng.Reporter;
 
 import com.relevantcodes.extentreports.LogStatus;
-import com.test.automation.uiAutomation.Generic.Base.TestBase;
+import com.test.automation.Generic.Base.TestBase;
 /**
  * 
  * @author Vivek Kumar Jha

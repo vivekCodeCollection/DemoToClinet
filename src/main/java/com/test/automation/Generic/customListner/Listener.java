@@ -1,4 +1,4 @@
-package com.test.automation.uiAutomation.Generic.customListner;
+package com.test.automation.Generic.customListner;
 
 import java.io.File;
 import java.io.IOException;
@@ -14,7 +14,7 @@ import org.testng.ITestListener;
 import org.testng.ITestResult;
 import org.testng.Reporter;
 
-import com.test.automation.uiAutomation.Generic.Base.TestBase;
+import com.test.automation.Generic.Base.TestBase;
 /**
  * 
  * @author Vivek Kumar Jha

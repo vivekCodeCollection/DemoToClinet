@@ -3,17 +3,17 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.test.automation.uiAutomation.homepage.TC001_Task">
+      <class name="com.test.automation.UiTest.TC001_Task">
         <methods>
+          <include name="setUp"/>
+          <include name="afterMethod"/>
+          <include name="endTest"/>
+          <include name="TearDown"/>
+          <include name="beforeMethod"/>
           <include name="CustomerRegistration"/>
           <include name="LoginWithNewUserAndAddproductNAndProcdTochkout"/>
-          <include name="setUp"/>
-          <include name="beforeMethod"/>
-          <include name="endTest"/>
-          <include name="afterMethod"/>
-          <include name="TearDown"/>
         </methods>
-      </class> <!-- com.test.automation.uiAutomation.homepage.TC001_Task -->
+      </class> <!-- com.test.automation.UiTest.TC001_Task -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

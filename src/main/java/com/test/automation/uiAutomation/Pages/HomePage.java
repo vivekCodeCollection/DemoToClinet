@@ -8,7 +8,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Reporter;
 
-import com.test.automation.uiAutomation.Generic.Base.TestBase;
+import com.test.automation.Generic.Base.TestBase;
 /**
  * 
  * @author Vivek Kumar Jha
