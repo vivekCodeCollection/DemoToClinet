@@ -1,4 +1,4 @@
-1. Clone Project from Git location- https://github.com/vivekCodeCollection/CrossAsystTechnologies.git
+1. Clone Project from Git location- https://github.com/vivekCodeCollection/DemoToClinet.git
 2. Update Project 
 3. Go To this location to get Test class -\CrossAsystTechnologies\src\test\java\com\test\automation\uiAutomation\homepage
 4. TestNg xml file is avalaible at Location -\CrossAsystTechnologies\testNG.xml
